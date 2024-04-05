@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋🏾
 
+I am currently learning more about multiple data reporting methods.
+
+Ask me about what it was like to learn Computer Programming from 1996 to 1998 at a Technical School in Florida.
+
+Ask me about how data is handled by office clerical staff and what their mistakes might look like from Dev view.
+
+Ask me about how far legal redaction has come when it comes to personally protected data.
+
+And I would like to learn more about anything you have to share, please feel free to reach out.
 <!--
 **kkin169/Kkin169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
